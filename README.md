@@ -1,2 +1,3 @@
-## This repository contains tasks from dicoding
+# Dicoding
 
+This repository contains tasks from Dicoding
